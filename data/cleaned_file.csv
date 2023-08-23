@@ -1,0 +1,65 @@
+Name,Height,Weight,Base Experience,Abilities,Types
+venusaur,20,1000,263,"['overgrow', 'chlorophyll']","['grass', 'poison']"
+charmeleon,11,190,142,"['blaze', 'solar-power']",['fire']
+charizard,17,905,267,"['blaze', 'solar-power']","['fire', 'flying']"
+blastoise,16,855,265,"['torrent', 'rain-dish']",['water']
+butterfree,11,320,198,"['compound-eyes', 'tinted-lens']","['bug', 'flying']"
+pidgeotto,11,300,122,"['keen-eye', 'tangled-feet', 'big-pecks']","['normal', 'flying']"
+pidgeot,15,395,216,"['keen-eye', 'tangled-feet', 'big-pecks']","['normal', 'flying']"
+fearow,12,380,155,"['keen-eye', 'sniper']","['normal', 'flying']"
+arbok,35,650,157,"['intimidate', 'shed-skin', 'unnerve']",['poison']
+nidoqueen,13,600,253,"['poison-point', 'rivalry', 'sheer-force']","['poison', 'ground']"
+nidoking,14,620,253,"['poison-point', 'rivalry', 'sheer-force']","['poison', 'ground']"
+clefable,13,400,242,"['cute-charm', 'magic-guard', 'unaware']",['fairy']
+ninetales,11,199,177,"['flash-fire', 'drought']",['fire']
+golbat,16,550,159,"['inner-focus', 'infiltrator']","['poison', 'flying']"
+vileplume,12,186,245,"['chlorophyll', 'effect-spore']","['grass', 'poison']"
+venomoth,15,125,158,"['shield-dust', 'tinted-lens', 'wonder-skin']","['bug', 'poison']"
+golduck,17,766,175,"['damp', 'cloud-nine', 'swift-swim']",['water']
+arcanine,19,1550,194,"['intimidate', 'flash-fire', 'justified']",['fire']
+poliwrath,13,540,255,"['water-absorb', 'damp', 'swift-swim']","['water', 'fighting']"
+kadabra,13,565,140,"['synchronize', 'inner-focus', 'magic-guard']",['psychic']
+alakazam,15,480,250,"['synchronize', 'inner-focus', 'magic-guard']",['psychic']
+machoke,15,705,142,"['guts', 'no-guard', 'steadfast']",['fighting']
+machamp,16,1300,253,"['guts', 'no-guard', 'steadfast']",['fighting']
+victreebel,17,155,221,"['chlorophyll', 'gluttony']","['grass', 'poison']"
+tentacruel,16,550,180,"['clear-body', 'liquid-ooze', 'rain-dish']","['water', 'poison']"
+golem,14,3000,223,"['rock-head', 'sturdy', 'sand-veil']","['rock', 'ground']"
+rapidash,17,950,175,"['run-away', 'flash-fire', 'flame-body']",['fire']
+slowbro,16,785,172,"['oblivious', 'own-tempo', 'regenerator']","['water', 'psychic']"
+dodrio,18,852,165,"['run-away', 'early-bird', 'tangled-feet']","['normal', 'flying']"
+dewgong,17,1200,166,"['thick-fat', 'hydration', 'ice-body']","['water', 'ice']"
+muk,12,300,175,"['stench', 'sticky-hold', 'poison-touch']",['poison']
+cloyster,15,1325,184,"['shell-armor', 'skill-link', 'overcoat']","['water', 'ice']"
+gengar,15,405,250,['cursed-body'],"['ghost', 'poison']"
+hypno,16,756,169,"['insomnia', 'forewarn', 'inner-focus']",['psychic']
+kingler,13,600,166,"['hyper-cutter', 'shell-armor', 'sheer-force']",['water']
+electrode,12,666,172,"['soundproof', 'static', 'aftermath']",['electric']
+exeggutor,20,1200,186,"['chlorophyll', 'harvest']","['grass', 'psychic']"
+hitmonlee,15,498,159,"['limber', 'reckless', 'unburden']",['fighting']
+hitmonchan,14,502,159,"['keen-eye', 'iron-fist', 'inner-focus']",['fighting']
+weezing,12,95,172,"['levitate', 'neutralizing-gas', 'stench']",['poison']
+rhydon,19,1200,170,"['lightning-rod', 'rock-head', 'reckless']","['ground', 'rock']"
+chansey,11,346,395,"['natural-cure', 'serene-grace', 'healer']",['normal']
+kangaskhan,22,800,172,"['early-bird', 'scrappy', 'inner-focus']",['normal']
+seadra,12,250,154,"['poison-point', 'sniper', 'damp']",['water']
+seaking,13,390,158,"['swift-swim', 'water-veil', 'lightning-rod']",['water']
+starmie,11,800,182,"['illuminate', 'natural-cure', 'analytic']","['water', 'psychic']"
+mr-mime,13,545,161,"['soundproof', 'filter', 'technician']","['psychic', 'fairy']"
+scyther,15,560,100,"['swarm', 'technician', 'steadfast']","['bug', 'flying']"
+jynx,14,406,159,"['oblivious', 'forewarn', 'dry-skin']","['ice', 'psychic']"
+electabuzz,11,300,172,"['static', 'vital-spirit']",['electric']
+magmar,13,445,173,"['flame-body', 'vital-spirit']",['fire']
+pinsir,15,550,175,"['hyper-cutter', 'mold-breaker', 'moxie']",['bug']
+tauros,14,884,172,"['intimidate', 'anger-point', 'sheer-force']",['normal']
+gyarados,65,2350,189,"['intimidate', 'moxie']","['water', 'flying']"
+lapras,25,2200,187,"['water-absorb', 'shell-armor', 'hydration']","['water', 'ice']"
+kabutops,13,405,173,"['swift-swim', 'battle-armor', 'weak-armor']","['rock', 'water']"
+aerodactyl,18,590,180,"['rock-head', 'pressure', 'unnerve']","['rock', 'flying']"
+snorlax,21,4600,189,"['immunity', 'thick-fat', 'gluttony']",['normal']
+articuno,17,554,290,"['pressure', 'snow-cloak']","['ice', 'flying']"
+zapdos,16,526,290,"['pressure', 'static']","['electric', 'flying']"
+moltres,20,600,290,"['pressure', 'flame-body']","['fire', 'flying']"
+dragonair,40,165,147,"['shed-skin', 'marvel-scale']",['dragon']
+dragonite,22,2100,300,"['inner-focus', 'multiscale']","['dragon', 'flying']"
+mewtwo,20,1220,340,"['pressure', 'unnerve']",['psychic']
